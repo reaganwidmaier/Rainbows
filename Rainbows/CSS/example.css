@@ -1,0 +1,39 @@
+body {
+  background-color: #ffcce6;
+  color: navy;
+  font-family: arial, verdana, sans-serif;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+img {
+    border-radius: 8px;
+}
+
+h1 {
+  background-color: #ffcce6;
+  color: navy;
+  padding: inherit;
+}
+
+.grey {
+  background-color: #ffcce6;
+  color: #b3b3b3;
+  padding: inherit;
+}
+
+.blue {
+  background-color: #ffcce6;
+  color: #80bfff;
+  padding: inherit;
+}
+
+.yellow {
+  background-color: #ffcce6;
+  color: #ffff80;
+  padding: inherit;
+}
